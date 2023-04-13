@@ -1,0 +1,14 @@
+{
+    "name": "Free Profile Colors",
+    "description": "Give yourself Nitro profile colors without Nitro!",
+    "authors": [
+        {
+            "name": "toonlink",
+            "id": "192760945766957066"
+        }
+    ],
+    "main": "src/index.js",
+    "vendetta": {
+        "icon": "ic_badge_staff"
+    }
+}
