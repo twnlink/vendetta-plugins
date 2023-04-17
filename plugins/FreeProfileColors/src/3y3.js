@@ -1,3 +1,5 @@
+// taken from https://synthetic.garden/3y3.htm
+
 export function is3y3(text) {
   return !![...text].some((x) => 0xe0000 < x.codePointAt(0) && x.codePointAt(0) < 0xe007f);
 }
